@@ -1,8 +1,7 @@
 body{
     margin: 0%;
-}
-.image1{
-    width: 1349px;
-    height: 625px;
+    background-image: url("../ShoeStore/Images/shoe3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 

@@ -13,7 +13,6 @@ body{
 	height: 100vh;
 	background-image: url(./Images/shoe3.jpg);
 	background-color: #313131;
-	background-blend-mode: overlay;
-	background-size: cover;
-
+	/* background-blend-mode: overlay; */
+	
 }

@@ -7,14 +7,11 @@ body{
 	padding: 0;
 }
 .sec1{
-	position: relative;
+	position: absolute;
 	background-size: cover;
 	width: 100%;
 	height: 100vh;
 	background-image: url(Images/shoe3.jpg);
-	background-color: #313131;
-	background-blend-mode: overlay;
-	background-size: cover;
 
 }
 

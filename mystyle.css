@@ -10,7 +10,7 @@ body{
 	position: relative;
 	background-size: cover;
 	width: 100%;
-	height: auto;
+	height: 100vh;
 	background-image: url(Images/background.jpg);
 	background-color: #313131;
 	background-blend-mode: overlay;

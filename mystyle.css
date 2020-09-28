@@ -43,7 +43,7 @@ body{
 	font-family: cursive;
 	padding: 15px;
 	font-size: 12px;
-	border-right: 1px snow solid;
+	border-bottom: 1px snow solid;
 }
 .nav:hover{
 	border-radius: 7px;
